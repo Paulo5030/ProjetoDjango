@@ -2,6 +2,7 @@
 Neste repositório publicarei meus trabalhos e estudos com Python e Django Rest_Framework.
     
     # Versão do Python 3.7.4
+    # Versão do Django 3.0.7
     # Criado em 08/04/2022
     # Autor: Paulo Henrique
 

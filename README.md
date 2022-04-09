@@ -1,7 +1,5 @@
- ProjetoDjango
+# ProjetoDjango
 Neste repositório publicarei meus trabalhos e estudos com Python e Django Rest_Framework.
-
-# Web Scraping em script Python.
     # Versão do Python 3.7.4
     # Criado em 08/04/2022
     # Autor: Paulo Henrique
